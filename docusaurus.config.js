@@ -6,7 +6,7 @@ const config = {
     title: 'docusaurus-test-site',
     tagline: 'testing',
     url: 'https://jatinderkumarchaurasia.github.io/',
-    baseUrl: '/',
+    baseUrl: '/curly-octo-happiness/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
