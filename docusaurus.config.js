@@ -5,13 +5,14 @@ const lightTheme  = require("prism-react-renderer/themes/github")
 const config = {
     title: 'docusaurus-test-site',
     tagline: 'testing',
-    url: 'https://your-docusaurus-test-site.com',
+    url: 'https://jatinderkumarchaurasia.github.io/',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
-    organizationName: 'developer', // Usually your GitHub org/user name.
-    projectName: 'docusaurus-test-site', // Usually your repo name.
+    trailingSlash: false,
+    organizationName: 'jatinderkumarchaurasia', // Usually your GitHub org/user name.
+    projectName: 'curly-octo-happiness', // Usually your repo name.
     i18n: {
         defaultLocale: 'en',
         locales: ['en'],

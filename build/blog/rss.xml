@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>docusaurus-test-site Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://jatinderkumarchaurasia.github.io/blog</link>
         <description>docusaurus-test-site Blog</description>
-        <lastBuildDate>Sat, 08 Oct 2022 11:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 11:28:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Ame]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/Ame</link>
+            <link>https://jatinderkumarchaurasia.github.io/blog/Ame</link>
             <guid>/Ame</guid>
-            <pubDate>Sat, 08 Oct 2022 11:13:17 GMT</pubDate>
+            <pubDate>Sat, 08 Oct 2022 11:28:13 GMT</pubDate>
             <description><![CDATA[hELLO]]></description>
             <content:encoded><![CDATA[<h1>hELLO</h1>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/welcome</link>
+            <link>https://jatinderkumarchaurasia.github.io/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
@@ -29,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/mdx-blog-post</link>
+            <link>https://jatinderkumarchaurasia.github.io/blog/mdx-blog-post</link>
             <guid>mdx-blog-post</guid>
             <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
@@ -38,7 +38,7 @@
         </item>
         <item>
             <title><![CDATA[Long Blog Post]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/long-blog-post</link>
+            <link>https://jatinderkumarchaurasia.github.io/blog/long-blog-post</link>
             <guid>long-blog-post</guid>
             <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[This is the summary of a very long blog post,]]></description>
@@ -48,7 +48,7 @@
         </item>
         <item>
             <title><![CDATA[First Blog Post]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/first-blog-post</link>
+            <link>https://jatinderkumarchaurasia.github.io/blog/first-blog-post</link>
             <guid>first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
