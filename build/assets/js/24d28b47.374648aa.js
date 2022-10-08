@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_test=self.webpackChunkdocusaurus_test||[]).push([[5268],{7522:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/curly-octo-happiness/blog/tags/facebook","allTagsPath":"/curly-octo-happiness/blog/tags","count":1}')}}]);
